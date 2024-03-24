@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "reveal-md": "^6.1.0",
+    "twemoji": "^14.0.2"
+  }
+}
