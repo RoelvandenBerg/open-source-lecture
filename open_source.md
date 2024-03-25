@@ -1,6 +1,6 @@
 ---
 title: Open Source
-theme: sky
+theme: blood
 highlightTheme: github
 center: false
 revealOptions:
@@ -116,6 +116,12 @@ CC Zero is a possible fix 👇
 ---
 
 # 🦸‍♀️ Why? 
+---
+
+## 🌱Sharing = Caring / Collaboration🌿
+![52749753413_80835d0438_o.jpg](docs%2Fimages%2F52749753413_80835d0438_o.jpg)
+
+[(c) Plain Schwartz](https://flickr.com/photos/newthinking_de/52749753413/)
 
 ---
 
@@ -126,27 +132,24 @@ CC Zero is a possible fix 👇
 
 ---
 
-## 🌱Sharing = Caring / Collaboration🌿
-![52749753413_80835d0438_o.jpg](docs%2Fimages%2F52749753413_80835d0438_o.jpg)
-
-[(c) Plain Schwartz](https://flickr.com/photos/newthinking_de/52749753413/)
-
----
-
 ## Security
 
 ![FBI_logo.svg](docs%2Fimages%2FFBI_logo.svg)
-<!-- .element: id="left" -->
-
-![coronamelder-icoon.png.rendition.200.320.png](docs%2Fimages%2Fcoronamelder-icoon.png.rendition.200.320.png)
-<!-- .element: id="right" -->
+<!-- .element: class="r-stretch" -->
 
 ---
 
-## Transparency / Openess
+## Transparency
 
 ![38461156880_a7f75aba8c_o.jpg](docs%2Fimages%2F38461156880_a7f75aba8c_o.jpg)
-[(c): stock catalog](https://flickr.com/photos/stockcatalog/38461156880/)
+
+##### [(c): stock catalog](https://flickr.com/photos/stockcatalog/38461156880/)
+
+---
+
+## Openess / Privacy
+
+![coronamelder-icoon.png.rendition.200.320.png](docs%2Fimages%2Fcoronamelder-icoon.png.rendition.200.320.png)
 
 ---
 
@@ -159,7 +162,7 @@ CC Zero is a possible fix 👇
 
 ---
 
-## Control && Preventing vendor lock in
+## Control / Vendor lock in
 ![6644923073_16d497a522_o.jpg](docs%2Fimages%2F6644923073_16d497a522_o.jpg)
 [(C) Monica Morales](https://flickr.com/photos/moniquephotos/6644923073/)
 
@@ -181,7 +184,7 @@ CC Zero is a possible fix 👇
 
 ---
 
-# In Summary
+## In Summary
 
 - Don't reinvent the wheel
 - Proven way of effective cooperation
@@ -191,7 +194,24 @@ CC Zero is a possible fix 👇
 - Open source has a business case
 
 ---
+## P.S. (the how)
 
+<div class="fragment">
+<h3>Open source is opionated</h3>
+<h4>When you want to start a project:</h4>
+
+- Don't try to do everything
+- Start small: focus on what _you_ need
+- It's ok to say no
+</div>
+
+> Advice is a form of nostalgia, dispensing it is a way of
+fishing the past from the disposal, [...] and recycling it for more than
+it's worth. - B. Luhrmann
+<!-- .element: class="fragment" -->
+
+---
+ 
 ---
 
 ### 👷 How
@@ -250,14 +270,6 @@ CC Zero is a possible fix 👇
 
 ---
 
-### Open source is opionated
-
-- Don't try to do everything
-- Start small: focus on what _you_ need
-- It's ok to say no
-
----
-
 ### Repos have:
 
 - a README / basic documentation
@@ -272,9 +284,9 @@ CC Zero is a possible fix 👇
 
 ---
 
-## Resources
+## More Resources
 
-- [antitrust](https://trainingportal.linuxfoundation.org/courses/antitrust-laws-and-oss-project-management-and-participation-lfc105)
+- [Open source and antitrust](https://trainingportal.linuxfoundation.org/courses/antitrust-laws-and-oss-project-management-and-participation-lfc105)
 
 <style>
   .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5 {
