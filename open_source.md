@@ -11,40 +11,40 @@ revealOptions:
     marked-smartypants: true
 ---
 # Open Source
-![Open_Source_Initiative.svg](images%2FOpen_Source_Initiative.svg)
+![Open_Source_Initiative.svg](docs%2Fimages%2FOpen_Source_Initiative.svg)
 <!-- .element: class="r-stretch" -->
 
 ---
-![Netflix_2015_logo.svg](images%2FNetflix_2015_logo.svg)
-![Spotify_logo_with_text.svg](images%2FSpotify_logo_with_text.svg)
-![tikkie-3.svg](images%2Ftikkie-3.svg)
+![Netflix_2015_logo.svg](docs%2Fimages%2FNetflix_2015_logo.svg)
+![Spotify_logo_with_text.svg](docs%2Fimages%2FSpotify_logo_with_text.svg)
+![tikkie-3.svg](docs%2Fimages%2Ftikkie-3.svg)
 <!-- .element: class="r-stretch" -->
 
 ---
 
 ### the internet is made of Open Source
-![Icons8_flat_linux.svg](images%2FIcons8_flat_linux.svg)
+![Icons8_flat_linux.svg](docs%2Fimages%2FIcons8_flat_linux.svg)
 <!-- .element: id="left" -->
-![Kubernetes_logo_without_workmark.svg](images%2FKubernetes_logo_without_workmark.svg)
+![Kubernetes_logo_without_workmark.svg](docs%2Fimages%2FKubernetes_logo_without_workmark.svg)
 <!-- .element: id="right" -->
 ---
 
 # 🧑‍🎓 What 
 # 🦸‍♀️ Why
-# 👷 How
+### 👷 How
 
 ---
 
 # 🧑‍🎓 What
 
-[![2327138220_01ba7256de_o.jpg](images%2F2327138220_01ba7256de_o.jpg)](https://flickr.com/photos/16038409@N02/2327138220)
+[![2327138220_01ba7256de_o.jpg](docs%2Fimages%2F2327138220_01ba7256de_o.jpg)](https://flickr.com/photos/16038409@N02/2327138220)
 [(C): The Art Gallery of Knoxville](https://flickr.com/photos/16038409@N02/2327138220)
 
 ---
 
 ## Open source definition
 
-[![cropped-OSI-horizontal-large.png](images%2Fcropped-OSI-horizontal-large.png)](https://opensource.org/osd)
+[![cropped-OSI-horizontal-large.png](docs%2Fimages%2Fcropped-OSI-horizontal-large.png)](https://opensource.org/osd)
 <!-- .element: id="left" -->
 
 - Free redistribution
@@ -61,7 +61,7 @@ revealOptions:
 
 ## Licences
 
-![Copyleft.svg](images%2FCopyleft.svg)
+![Copyleft.svg](docs%2Fimages%2FCopyleft.svg)
 <!-- .element: class="r-stretch" -->
 COPYLEFT ALL WRONGS RESERVED.
 
@@ -111,7 +111,7 @@ _**examples:** ... / Sqlite_
 
 CC Zero is a possible fix 👇 
 
-[![Cc-zero.svg.png](images%2FCc-zero.svg.png)](https://creativecommons.org/public-domain/cc0/)
+[![Cc-zero.svg.png](docs%2Fimages%2FCc-zero.svg.png)](https://creativecommons.org/public-domain/cc0/)
 
 ---
 
@@ -121,13 +121,13 @@ CC Zero is a possible fix 👇
 
 ## Don't reinvent the wheel / Better use of resources
 
-[![553951203_567e7eb37d_o.jpg](images%2F553951203_567e7eb37d_o.jpg)](https://flickr.com/photos/chascar/553951203/)
+[![553951203_567e7eb37d_o.jpg](docs%2Fimages%2F553951203_567e7eb37d_o.jpg)](https://flickr.com/photos/chascar/553951203/)
 [(c) chascar](https://flickr.com/photos/chascar/553951203/)
 
 ---
 
 ## 🌱Sharing = Caring / Collaboration🌿
-![52749753413_80835d0438_o.jpg](images%2F52749753413_80835d0438_o.jpg)
+![52749753413_80835d0438_o.jpg](docs%2Fimages%2F52749753413_80835d0438_o.jpg)
 
 [(c) Plain Schwartz](https://flickr.com/photos/newthinking_de/52749753413/)
 
@@ -135,40 +135,40 @@ CC Zero is a possible fix 👇
 
 ## Security
 
-![FBI_logo.svg](images%2FFBI_logo.svg)
+![FBI_logo.svg](docs%2Fimages%2FFBI_logo.svg)
 <!-- .element: id="left" -->
 
-![coronamelder-icoon.png.rendition.200.320.png](images%2Fcoronamelder-icoon.png.rendition.200.320.png)
+![coronamelder-icoon.png.rendition.200.320.png](docs%2Fimages%2Fcoronamelder-icoon.png.rendition.200.320.png)
 <!-- .element: id="right" -->
 
 ---
 
 ## Transparency / Openess
 
-![38461156880_a7f75aba8c_o.jpg](images%2F38461156880_a7f75aba8c_o.jpg)
+![38461156880_a7f75aba8c_o.jpg](docs%2Fimages%2F38461156880_a7f75aba8c_o.jpg)
 [(c): stock catalog](https://flickr.com/photos/stockcatalog/38461156880/)
 
 ---
 
 ## Standardization
 
-![Open_Geospatial_Consortium_logo.svg](images%2FOpen_Geospatial_Consortium_logo.svg)
+![Open_Geospatial_Consortium_logo.svg](docs%2Fimages%2FOpen_Geospatial_Consortium_logo.svg)
 <!-- .element: id="left" -->
-![gopher-koala.png](images%2Fgopher-koala.png)
+![gopher-koala.png](docs%2Fimages%2Fgopher-koala.png)
 <!-- .element: id="right" -->
 
 ---
 
 ## Control && Preventing vendor lock in
-![6644923073_16d497a522_o.jpg](images%2F6644923073_16d497a522_o.jpg)
+![6644923073_16d497a522_o.jpg](docs%2Fimages%2F6644923073_16d497a522_o.jpg)
 [(C) Monica Morales](https://flickr.com/photos/moniquephotos/6644923073/)
 
 ---
 
 ## The businesscase
 
-![Google_2015_logo.svg](images%2FGoogle_2015_logo.svg)
-![Kubernetes_logo_without_workmark.svg](images%2FKubernetes_logo_without_workmark.svg)
+![Google_2015_logo.svg](docs%2Fimages%2FGoogle_2015_logo.svg)
+![Kubernetes_logo_without_workmark.svg](docs%2Fimages%2FKubernetes_logo_without_workmark.svg)
 <!-- .element: id="left" -->
 
 <div id="right" class="fragment"> 
@@ -181,7 +181,20 @@ CC Zero is a possible fix 👇
 
 ---
 
-# 👷 How
+# In Summary
+
+- Don't reinvent the wheel
+- Proven way of effective cooperation
+- Helps with transparency
+- Effective way to standardize
+- Open source _can_ help with security
+- Open source has a business case
+
+---
+
+---
+
+### 👷 How
 
 ---
 
@@ -256,20 +269,6 @@ CC Zero is a possible fix 👇
 - tested (CI / builds)
 
 [also see Github](https://docs.github.com/en/communities)
-
----
-
-# In Summary
-
-- Don't reinvent the wheel
-- Proven way of effective cooperation
-- Helps with transparency
-- Effective way to standardize
-- Open source _can_ help with security
-- Open source has a business case
-
----
-
 
 ---
 
